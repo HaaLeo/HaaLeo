@@ -1,4 +1,4 @@
-### Hi there, I'm Leo 👋
+### Hi there 👋🏼
 
 <a href="https://www.linkedin.com/in/leohanisch/">
     <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" width="21"/></a>
@@ -10,7 +10,7 @@
     <img src="https://cdn03.gitter.im/_s/6cca2f355/images/favicon-read.ico" alt="Gitter" width="21"/></a>
 
 
-Hi, I'm Leo, studying Robotics, Cognition, Intelligence at the Technical University of Munich.
+I'm Leo, studying Robotics, Cognition, Intelligence at the Technical University of Munich.
 I am currently working on my master's thesis.
 [Here](https://github.com/HaaLeo/vague-requirements-scripts) you find the implementation and the thesis is located [here](https://github.com/HaaLeo/vague-requirements-thesis).
 
