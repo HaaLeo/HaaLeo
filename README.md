@@ -11,8 +11,10 @@
 
 
 Hi, I'm Leo, studying Robotics, Cognition, Intelligence at the Technical University of Munich.
+I am currently working on my master's thesis.
+[Here](https://github.com/HaaLeo/vague-requirements-scripts) you find the implementation and the thesis is located [here](https://github.com/HaaLeo/vague-requirements-thesis).
 
-I am currently working on my master's thesis. [Here](https://github.com/HaaLeo/vague-requirements-scripts) you find the implementation and the thesis is located [here](https://github.com/HaaLeo/vague-requirements-thesis).
+I am here to contribute to awesome projects and to stay in touch with the open source community
 
 ### Favorite Languages and Tools
 
