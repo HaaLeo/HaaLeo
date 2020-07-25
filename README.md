@@ -1,15 +1,15 @@
 ### Hi there, I'm Leo 👋
 
-<a href="https://www.linkedin.com/in/leohanisch/">
+<a href="https://www.linkedin.com/in/leohanisch/" style="text-decoration:none;">
     <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" width="21"/>
 </a>
-<a href="mailto:HaaLeo@mail.de">
+<a href="mailto:HaaLeo@mail.de" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/HaaLeo/HaaLeo/master/images/mail.png" alt="Mail" width="21"/>
 </a>
-<a href="https://stackoverflow.com/users/6925187/haaleo?tab=profile">
+<a href="https://stackoverflow.com/users/6925187/haaleo?tab=profile" style="text-decoration:none;">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" alt="Stackoverflow" width="21"/>
 </a>
-<a href="https://gitter.im/HaaLeo">
+<a href="https://gitter.im/HaaLeo" style="text-decoration:none;">
     <img src="https://cdn03.gitter.im/_s/6cca2f355/images/favicon-read.ico" alt="Gitter" width="21"/>
 </a>
 
@@ -20,27 +20,27 @@ I am currently working on my master's thesis. [Here](https://github.com/HaaLeo/v
 
 ### Favorite Languages and Tools
 
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/" style="text-decoration:none;">
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
 </a>
-<a href="https://nodejs.org/"><code>
+<a href="https://nodejs.org/" style="text-decoration:none;"><code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 </a>
-<a href="https://code.visualstudio.com/"><code>
+<a href="https://code.visualstudio.com/" style="text-decoration:none;"><code>
     <img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
 </a>
-<a href="https://www.docker.com/"><code>
+<a href="https://www.docker.com/" style="text-decoration:none;"><code>
     <img height="20" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png"></code>
-<a href="https://aws.amazon.com">
+<a href="https://aws.amazon.com" style="text-decoration:none;">
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 </a>
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" style="text-decoration:none;">
     <code><img height="20" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
 </a>
-<a href="https://redis.io/">
+<a href="https://redis.io/" style="text-decoration:none;">
     <code><img height="20" src="https://redis.io/images/favicon.png"></code>
 </a>
-<a href="https://www.influxdata.com/products/influxdb-overview/">
+<a href="https://www.influxdata.com/products/influxdb-overview/" style="text-decoration:none;">
     <code><img height="20" src="https://www.influxdata.com/wp-content/uploads/Favicon-blue-200x200.png"></code>
 </a>
 
