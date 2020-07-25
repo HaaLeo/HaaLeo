@@ -4,7 +4,7 @@
     <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" width="21"/>
 </a>
 <a href="mailto:HaaLeo@mail.de">
-    <img src="./images/mail.png" alt="Mail" width="21"/>
+    <img src="https://raw.githubusercontent.com/HaaLeo/HaaLeo/master/images/mail.png" alt="Mail" width="21"/>
 </a>
 <a href="https://stackoverflow.com/users/6925187/haaleo?tab=profile">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" alt="Stackoverflow" width="21"/>
