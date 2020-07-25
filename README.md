@@ -18,16 +18,33 @@ Hi, I'm Leo, studying Robotics, Cognition, Intelligence at the Technical Univers
 
 I am currently working on my master's thesis. [Here](https://github.com/HaaLeo/vague-requirements-scripts) you find the implementation and the thesis is located [here](https://github.com/HaaLeo/vague-requirements-thesis).
 
-My favorite _languages and tools_ are
+### Favorite Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
-<code><img height="20" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
-<code><img height="20" src="https://redis.io/images/favicon.png"></code>
-<code><img height="20" src="https://www.influxdata.com/wp-content/uploads/Favicon-blue-200x200.png"></code>
+<a href="https://www.typescriptlang.org/">
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+</a>
+<a href="https://nodejs.org/"><code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+</a>
+<a href="https://code.visualstudio.com/"><code>
+    <img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
+</a>
+<a href="https://www.docker.com/"><code>
+    <img height="20" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png"></code>
+<a href="https://aws.amazon.com">
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+</a>
+<a href="https://www.python.org/">
+    <code><img height="20" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
+</a>
+<a href="https://redis.io/">
+    <code><img height="20" src="https://redis.io/images/favicon.png"></code>
+</a>
+<a href="https://www.influxdata.com/products/influxdb-overview/">
+    <code><img height="20" src="https://www.influxdata.com/wp-content/uploads/Favicon-blue-200x200.png"></code>
+</a>
+
+### GitHub Statistics
 
 >**Note**: _Top Languages_ indicates the languages which are most present in my repositories.
 
