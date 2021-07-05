@@ -38,6 +38,6 @@ I am here to contribute to awesome projects and to stay in touch with the open s
 ### GitHub Statistics
 
 <a href="https://github.com/HaaLeo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaaLeo&&count_private=true&theme=prussian&hide=C%23,Visual%20Basic&layout=compact" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaaLeo&&count_private=true&theme=prussian&hide=C%23,Visual%20Basic,Tex,Jupyter%20Notebook&layout=compact" /></a>
 <a href="https://github.com/HaaLeo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaaLeo&show_icons=true&theme=prussian&line_height=27" alt="Leo's github stats" /></a>
