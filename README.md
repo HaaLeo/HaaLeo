@@ -10,7 +10,7 @@
     <img src="https://cdn03.gitter.im/_s/6cca2f355/images/favicon-read.ico" alt="Gitter" width="30"/></a>
 
 
-I'm Leo, I got a computer sience degree in _Robotics, Cognition, Intelligence_ at the Technical University of Munich.
+I'm Leo, I got a computer science degree in _Robotics, Cognition, Intelligence_ at the Technical University of Munich.
 The topic of my master's thesis is whether and to what extent it is possible to identify _vague_ requirements with machine learning.
 [Here](https://github.com/HaaLeo/vague-requirements-scripts) you find the implementation and the thesis is located [here](https://github.com/HaaLeo/vague-requirements-thesis/blob/master/Detecting%20Vague%20Requirements%20with%20Machine%20Learning.pdf).
 
